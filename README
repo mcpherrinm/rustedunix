@@ -1,0 +1,4 @@
+As part of my learning Rust, I thought I'd impement a few small unix tools.
+
+A list of 9base tools is at http://tools.suckless.org/9base and serves as
+a possible list of things to implement.
